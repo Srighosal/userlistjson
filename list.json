@@ -1,0 +1,47 @@
+{ 
+    "users":
+    [
+        {
+    
+    "fname" : "chris",
+    "lname" : "james",
+    "email":"chris@gmail.com",
+    "contact":"1234567789"
+},
+{
+    
+    "fname" : "kane",
+    "lname" : "willamson",
+    "email":"kane@gmail.com",
+    "contact":"963258741"
+},
+{
+    
+    "fname" : "john",
+    "lname" : "thomas",
+    "email":"john@gmail.com",
+    "contact":"852147963"
+},
+{
+    
+    "fname" : "wilson",
+    "lname" : "chruchil",
+    "email":"wilson@gmail.com",
+    "contact":"01234567"
+},
+{
+    
+    "fname" : "john",
+    "lname" : "thomas",
+    "email":"john@gmail.com",
+    "contact":"852147963"
+},
+{
+    
+    "fname" : "john",
+    "lname" : "thomas",
+    "email":"john@gmail.com",
+    "contact":"852147963"
+}
+]
+}
